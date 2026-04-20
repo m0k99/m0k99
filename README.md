@@ -92,10 +92,10 @@ Passionate about <b>Vue.js, Nuxt.js, React, Next.js, TypeScript</b>, real-time s
 
 ###
 
-<h3 align="left">🔥 GitHub Stats</h3>
+<!-- <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m0k99&show_icons=true&theme=dark&count_private=true" height="180" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0k99&layout=compact&theme=dark" height="180" alt="Top Languages" />
-</div>
+</div> -->
 
